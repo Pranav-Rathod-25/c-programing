@@ -34,6 +34,8 @@ int main(void)
 									   The number of format specifier and variable outside "" should be equal.
 									   Every format specifier need a variable or we can say every variable
 									   needs a format specifier to print its value. 
+                    This variable is declared in global scop means value in this variable will be 
+                    same until we change it . 
 									   */
 	return(0);
 }
