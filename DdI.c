@@ -7,7 +7,7 @@ int numberOne = 10; /*In this statement we have define the numberOne is a type o
 
 		  	int = data type.
 		     	numberOne = variable whose datatype is int.			
-		     Now '='operator means assignment operator, assignment  operator '='  is from right to left , as we have written
+		     Now '='operator means assignment operator, assignment  operator '=' associavity is from right to left , as we have written
 		     'numberOne = 10' which means that 10 value will be assign to numberOne variable, becuase 10 is at right side and variable is at
 		     left side .Assignment operator usually needs two operator which we state the arity of assignment operator is binary.
 		     While assignment operator assign the value to the righthand , before assigning the value it will first convert the value of the 

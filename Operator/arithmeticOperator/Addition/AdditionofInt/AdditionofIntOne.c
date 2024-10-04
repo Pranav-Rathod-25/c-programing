@@ -9,9 +9,10 @@ int result = 0;
 int main(void)
 {
 	result = numberOne + numberTwo ;/*In this statement we have used '+' operator and '=' operator.
+           Arity is binary which means it require two operands
 					  '+' operator is called as addition operator 
 					  '=' operator is called as assignment operator
-					  Arity of the '+' operator is from right to left,arity of '=' 
+					  Associavity of the '+' operator is from left to right,associavity  of '=' 
 					  operator is from right to left. 
 					  Now when complier enters the main body of program control
 					  flow will go to first line that is 
