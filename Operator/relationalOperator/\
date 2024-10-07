@@ -1,0 +1,13 @@
+#include<stdio.h>
+
+int numberOne =10;
+int numberTWo =10;
+int result = 0;
+
+int main(void)
+{
+	result = numberOne ==numberTwo;
+	printf("%d == %d =%d ",numberOne,numberTwo,result);
+	return(0);
+}
+
